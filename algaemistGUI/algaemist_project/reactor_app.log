@@ -1,0 +1,8 @@
+2025-10-04 13:51:54,622 [ERROR] No FTDI device found for connection.
+2025-12-06 12:32:01,921 [INFO] Config loaded from c:\Users\Yassin\OneDrive - ZHAW\Dokumente\Studium\HS25\PA2\code\algaemist_project\algaemistGUI\config.json
+2025-12-06 12:40:45,929 [INFO] Config loaded from c:\Users\Yassin\OneDrive - ZHAW\Dokumente\Studium\HS25\PA2\code\algaemist_project\algaemistGUI\config.json
+2025-12-06 12:40:45,930 [ERROR] Send called while reactor not connected
+2025-12-06 12:40:45,930 [WARNING] Failed to set time: None
+2025-12-06 12:41:36,933 [INFO] Config loaded from c:\Users\Yassin\OneDrive - ZHAW\Dokumente\Studium\HS25\PA2\code\algaemist_project\algaemistGUI\config.json
+2025-12-06 12:41:36,935 [ERROR] Send called while reactor not connected
+2025-12-06 12:41:36,935 [WARNING] Failed to set time: None

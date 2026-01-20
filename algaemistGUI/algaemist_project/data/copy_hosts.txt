@@ -1,0 +1,4 @@
+adls,algaemist,adls,~/projects/algaemist-project/algaemist_project/data
+
+
+# format: host,user,password,default_remote_dir  -> keep this line at the end of the host list

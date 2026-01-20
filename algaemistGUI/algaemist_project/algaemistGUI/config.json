@@ -1,0 +1,6 @@
+{
+    "reactor_addr": 21,
+    "night_temp_sp2": 15.0,
+    "chemostat_setpoint": 0,
+    "external_ph_pump": 0
+}
